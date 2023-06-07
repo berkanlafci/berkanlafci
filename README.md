@@ -2,7 +2,7 @@
 
 I am a postdoctoral researcher working on multi-view 3D reconstruction under the supervision of Prof. Björn Menze.
 
-I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023.
+I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023 at ETH Zurich.
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
