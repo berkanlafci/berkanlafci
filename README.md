@@ -1,5 +1,3 @@
-### Hi there 👋
-
 🔭 I am a postdoctoral researcher working on multi-view 3D reconstruction under the supervision of Prof. Björn Menze.
 
 🎓 I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023 at ETH Zurich.
