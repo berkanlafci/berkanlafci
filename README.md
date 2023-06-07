@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a postdoctoral researcher working on multi-view 3D reconstruction.
+I am a postdoctoral researcher working on multi-view 3D reconstruction under the supervision of Prof. Björn Menze.
+
+I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023.
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +10,7 @@ I am a postdoctoral researcher working on multi-view 3D reconstruction.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
