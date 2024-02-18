@@ -1,8 +1,8 @@
-🔭 I’m currently working on multiview photometric stereo (MVPS) and 3D reconstruction.
+🔭 Currently working on multiview photometric stereo (MVPS) and 3D reconstruction
 
-🔭 I am a postdoctoral researcher at University of Zurich (UZH) and ETH AI Center under the supervision of Prof. Björn Menze.
+🔭 Postdoctoral researcher at University of Zurich (UZH) and ETH AI Center under the supervision of Prof. Björn Menze
 
-🎓 I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023 at ETH Zurich.
+🎓 PhD from ETH Zurich about ultrasound and optoacoustic image reconstruction
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
