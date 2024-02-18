@@ -1,4 +1,4 @@
-🔭 I am a postdoctoral researcher working on multiview photometric stereo (MVPS) under the supervision of Prof. Björn Menze.
+🔭 I am a postdoctoral researcher working on multiview photometric stereo (MVPS) under the supervision of Prof. Björn Menze at University of Zurich (UZH) and ETH AI Center.
 
 🎓 I completed my PhD about ultrasound and optoacoustic image reconstruction in January 2023 at ETH Zurich.
 
