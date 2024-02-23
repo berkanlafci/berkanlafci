@@ -1,4 +1,4 @@
-🔭 Currently working on multiview photometric stereo (MVPS) and 3D reconstruction
+👨‍💻 Currently working on multiview photometric stereo (MVPS) and 3D reconstruction
 
 🔭 Postdoctoral researcher at University of Zurich (UZH) and ETH AI Center under the supervision of Prof. Björn Menze
 
