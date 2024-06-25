@@ -4,6 +4,8 @@
 
 🎓 PhD from ETH Zurich about ultrasound and optoacoustic image reconstruction
 
+![Profile Views](https://komarev.com/ghpvc/?username=berkanlafci&color=yellowgreen&label=Profile+Views)
+
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
