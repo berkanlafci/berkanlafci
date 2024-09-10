@@ -2,7 +2,7 @@
 
 🔭 Currently, I am a Senior Machine Learning Research Scientist at Align Technology
 
-🎓 I was a postdoctoral researcher for multiview photometric studio under the supervision of Prof. Bjoern Menze
+🎓 I was a postdoctoral researcher for multiview photometric stereo hardware and software development
 
 🎓 I hold a PhD degree from ETH Zurich about medical image processing
 
