@@ -1,8 +1,10 @@
-👨‍💻 Currently working on 3D mesh generation models and constrained optimization algorithms
+👨‍💻 Working on 3D mesh generation models and constrained optimization algorithms
 
-🔭 Senior Machine Learning Research Scientist at Align Technology
+🔭 Currently, I am a Senior Machine Learning Research Scientist at Align Technology
 
-🎓 PhD from ETH Zurich about medical image processing
+🎓 I was a postdoctoral researcher for multiview photometric studio under the supervision of Prof. Bjoern Menze
+
+🎓 I hold a PhD degree from ETH Zurich about medical image processing
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
