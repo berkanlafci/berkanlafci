@@ -1,10 +1,8 @@
-👨‍💻 Currently working on multiview photometric stereo (MVPS) and 3D reconstruction
+👨‍💻 Currently working on 3D mesh generation models and constrained optimization algorithms
 
-🔭 Postdoctoral researcher at University of Zurich (UZH) and ETH AI Center under the supervision of Prof. Björn Menze
+🔭 Senior Machine Learning Research Scientist at Align Technology
 
-🎓 PhD from ETH Zurich about ultrasound and optoacoustic image reconstruction
-
-![Profile Views](https://komarev.com/ghpvc/?username=berkanlafci&color=yellowgreen&label=Profile+Views)
+🎓 PhD from ETH Zurich about medical image processing
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
