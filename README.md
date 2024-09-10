@@ -1,4 +1,6 @@
-👨‍💻 I am a Senior Machine Learning Research Scientist at Align Technology who works on 3D mesh generation models and constrained optimization algorithms
+👨‍💻 I am a Senior Machine Learning Research Scientist at Align Technology
+
+🔭 Currently, I am working on 3D mesh generation models and constrained optimization algorithms
 
 🎓 I was a postdoctoral researcher for multiview photometric stereo hardware and software development
 
