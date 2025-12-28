@@ -1,10 +1,10 @@
-👨‍💻 I am a Senior Machine Learning Research Scientist at Align Technology
+I work on 3D geometry processing and learning-based mesh generation, with a focus on building algorithms that move from research into production systems.
 
-🔭 Currently, I am working on 3D mesh generation models and constrained optimization algorithms
+My background spans 3D reconstruction, constrained optimization, and generative models for geometry. I have led the development and deployment of machine learning models that expanded real-world system capabilities and are now used in production workflows at scale.
 
-🎓 I was a postdoctoral researcher for multiview photometric stereo hardware and software development
+I am particularly interested in closing the loop between algorithm design and real-world usage, translating failure modes and user feedback into robust model and optimization improvements.
 
-🎓 I hold a PhD degree from ETH Zurich about medical image processing
+I hold a Ph.D. from ETH Zurich in Information Technology and Electrical Engineering, with prior degrees from the Technical University of Munich and Boğaziçi University.
 
 <!--
 **berkanlafci/berkanlafci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
